@@ -1,0 +1,18 @@
+{
+  "cats": [
+    {
+      "name": "Celery Brown",
+      "desciption": "A rear breed of cat from the Northern part of Canada",
+      "id": 1,
+      "description": "It's got brown strips",
+      "published": true
+    },
+    {
+      "name": "Bengal",
+      "desciption": "Medium to large with males: 10 to 18 pounds and females: 6 to 12 pounds, Bright orange to light brown, with dark spots or a distinctive marbling pattern.",
+      "id": 2,
+      "description": "Bright orange to light brown, with dark spots or a distinctive marbling pattern",
+      "published": true
+    }
+  ]
+}
